@@ -27,8 +27,7 @@ Key Question:
 ## 🛠 Tech Stack
 
 - Python (Pandas, NumPy)
-- PostgreSQL
-- SQL
+- MSSQL
 - Power BI
 - CSV Dataset
 
@@ -43,7 +42,7 @@ Key Question:
 - Standardized column names
 - Created new features (age_group, purchase_frequency)
 - Removed redundant columns
-- Exported cleaned data to PostgreSQL
+- Exported cleaned data to MSSQL
 
 ---
 
